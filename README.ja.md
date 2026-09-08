@@ -10,7 +10,23 @@
 
 ## サンプル展示
 
-計算資源を節約するため、このバッチでは画像モデルを呼び出さず、作例画像も生成していません。原文・リンク・実行スクリプトを検証済みですが、実際の生成品質は未検証です。以下は呼び出し例であり、生成作品ではありません。
+異なる元画像から個別に生成した Panel 168 の単回生成サンプル8点です。短い英語文を使用。横版1536×864は左右各50%、縦版1152×1536は上下各50%です。
+
+確認された偏差：一部は被写体と色面が大きく、紙の余白が不足しています。風景の再現が多く、紙白の負形や枠を越える表現が弱い作例もあります。実際の結果を公開しており、全点のスタイル合格を意味しません。
+
+16:9 · 50:50
+
+| sample-05 | sample-06 |
+|---|---|
+| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
+
+3:4 · 50:50
+
+| sample-09 | sample-10 |
+|---|---|
+| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
 
 ## 向いている場面と解決する課題
 

@@ -10,7 +10,23 @@
 
 ## 샘플 작품
 
-연산 자원을 아끼기 위해 이번 배치에서는 이미지 모델을 호출하거나 예시 이미지를 생성하지 않았습니다. 원문·링크·실행 스크립트는 확인했지만 실제 생성 품질은 아직 검증하지 않았습니다. 아래 예시는 생성 작품이 아닌 호출 명령입니다.
+서로 다른 원본 이미지에서 각각 한 번씩 생성한 Panel 168 샘플 8장입니다. 짧은 영어 문구를 사용했습니다. 가로 1536×864는 좌우 각 50%, 세로 1152×1536는 상하 각 50%입니다.
+
+확인된 편차: 일부 피사체와 색면이 커서 종이 여백이 부족합니다. 장면을 지나치게 유지하거나 종이의 음형과 경계 넘기 표현이 약한 결과도 있습니다. 실제 결과를 공개하며 모든 샘플의 스타일 검수 통과를 의미하지 않습니다.
+
+16:9 · 50:50
+
+| sample-05 | sample-06 |
+|---|---|
+| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
+
+3:4 · 50:50
+
+| sample-09 | sample-10 |
+|---|---|
+| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
 
 ## 잘 맞는 상황과 해결하는 문제
 

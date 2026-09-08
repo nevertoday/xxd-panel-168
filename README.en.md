@@ -10,7 +10,23 @@ Redirect an everyday photograph into a standalone art poster, preserving its rec
 
 ## Sample works
 
-This compute-saving batch packages the Skill without calling an image model or generating sample artwork. Source integrity, links and runtime helpers are checked; visual generation quality remains untested. The usage examples below are commands, not generated works.
+These eight single-pass Panel 168 samples were generated independently from different source images with short English copy. Landscape: 1536×864, equal left/right halves. Portrait: 1152×1536, equal top/bottom halves.
+
+Observed deviations: some subjects and painted fields are too large, leaving insufficient paper whitespace; some outputs retain too much of the full scene, with weak reserved-white shapes and frame-breaking. These are actual results for inspection, not a claim that all passed style acceptance.
+
+16:9 · 50:50
+
+| sample-05 | sample-06 |
+|---|---|
+| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
+
+3:4 · 50:50
+
+| sample-09 | sample-10 |
+|---|---|
+| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
 
 ## Best-fit situations and problems solved
 
