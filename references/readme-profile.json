@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 168｜Reserved-white Layered Painted Field: brushes an irregular rectangle of colour onto wide near-white paper and lets the photo's most recognisable subject emerge as reserved paper white, a negative shape left unpainted rather than pasted on. The field is built from thin washes, broken layered strokes, half-dry scrubbing and a few darker accents, with brush marks and gaps visible; a few leaves, lines or dots break past its edge. Warm cream yellow, ochre, apricot and coral with small cool accents from the photo, and a few short words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-168 or asks for reserved-white, negative-shape or layered brushed colour-field painting from a photo.",
+  "short_description": "留纸白叠刷色场志：在白纸上刷一块层层叠叠的色场，主体是刷色时留出来的纸白",
+  "zh-CN": {
+    "name": "留纸白叠刷色场志",
+    "tagline": "在白纸上层层刷出一块暖色色场，照片主角是刷色时特意留下的那片纸白。",
+    "look": "大片近白纸面中间，用宽松笔触刷出一块不规则的矩形色场：先薄铺浅色，再碎碎地叠刷、半干擦刷，最后局部加深，笔刷方向、纸纹透底和没盖满的缺口都留着。照片里最好认的主体不是贴上去的，而是刷色时留出来的纸白负形，再用少量色块和自由线描点出关键结构。几片叶子、几根线或几个色点会越出矩形边界。颜色以奶油黄、黄赭、杏橙、珊瑚橙、暖红为主，夹一点照片里的蓝、青、绿或粉作跳色，少量短标题落在纸白或色场边缘。",
+    "traits": [
+      "留纸白负形",
+      "叠刷色场",
+      "半干擦刷",
+      "局部越界",
+      "大面积纸白"
+    ],
+    "good": [
+      "轮廓清楚、适合用负形表现的主体：一只鸟、一棵树、一个人的剪影、一只花瓶",
+      "带枝叶或线条、能伸出色场的自然题材：一枝花、一丛草、晾着的衣服",
+      "想做成自然观察插画、展览小画或明信片的照片"
+    ],
+    "poor": [
+      "需要完整写实细节的照片：人脸五官、产品细节、精密建筑",
+      "整体偏冷、灰暗的场景，这里会被重新调成明亮的暖色",
+      "想要均匀平涂、干净矢量色块或满版写实绘画的需求"
+    ]
+  },
+  "en": {
+    "name": "Reserved-white Layered Painted Field",
+    "tagline": "Brushes a layered warm colour field onto white paper, and the star of your photo is the white left unpainted.",
+    "look": "In the middle of a wide near-white sheet, loose strokes build an irregular rectangle of colour: thin pale washes first, then broken layered strokes, half-dry scrubbing and a few darker accents, leaving brush direction, paper show-through and unpainted gaps visible. The most recognisable subject is not pasted on; it is the paper white reserved while painting the field, with a few colour patches and free lines to mark its key structure. A few leaves, lines or dots cross over the rectangle's edge. Cream yellow, ochre, apricot, coral and warm red lead, with small touches of the photo's blue, teal, green or pink, and a few short titles sit in the white or along the field's edge.",
+    "traits": [
+      "Reserved white shapes",
+      "Layered brushed field",
+      "Half-dry scrubbing",
+      "Breaking the edge",
+      "Wide paper white"
+    ],
+    "good": [
+      "Clear-outlined subjects that work as negative shapes: a bird, a tree, a person's silhouette, a vase",
+      "Natural subjects with stems or lines that can reach out of the field: a flower stem, a clump of grass, laundry on a line",
+      "Photos you want as a nature-journal illustration, a small exhibition piece or a postcard"
+    ],
+    "poor": [
+      "Photos that need full realistic detail: facial features, product detail, precise architecture",
+      "Cold, dark, grey scenes, which are recoloured in bright warm tones",
+      "Requests for even flat fills, clean vector blocks or edge-to-edge realistic painting"
+    ]
+  },
+  "ja": {
+    "name": "紙白を残す重ね刷毛の色面",
+    "tagline": "白い紙に暖色の色面を重ねて刷き、写真の主役はそのとき塗り残した紙の白になります。",
+    "look": "広い白に近い紙の中央に、ゆるい筆致で不揃いな長方形の色面を刷きます。まず淡く薄く敷き、次に細かく重ね刷きし、半乾きの筆でこすり、最後に部分的に濃くします。筆の向き、紙の透け、塗り残しの隙間はそのまま残ります。写真でいちばん目立つ主役は後から貼るのではなく、色面を塗るときに残した紙の白の形で、少しの色面と自由な線で要の構造だけを示します。葉や線、色の点がいくつか長方形の縁を越えて外へ出ます。色はクリームイエロー、黄土、杏色、珊瑚色、暖かい赤が中心で、写真の青、青緑、緑、ピンクを少し差し、短いタイトルが紙の白か色面の縁に入ります。",
+    "traits": [
+      "塗り残しの紙白",
+      "重ね刷きの色面",
+      "半乾きのこすり",
+      "縁を越える要素",
+      "広い紙の白"
+    ],
+    "good": [
+      "輪郭がはっきりし、塗り残しで表しやすい主役：鳥、木、人のシルエット、花瓶",
+      "枝葉や線が色面の外へ伸ばせる自然の題材：一枝の花、草むら、干した洗濯物",
+      "自然観察の挿絵、小さな展示作品、ポストカードにしたい写真"
+    ],
+    "poor": [
+      "写実的な細部がすべて必要な写真：顔立ち、製品の細部、精密な建築",
+      "全体に冷たく暗い場面（明るい暖色に塗り替えられます）",
+      "均一なベタ塗り、きれいなベクターの色面、全面の写実画を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "종이 흰색을 남긴 겹붓질 색면",
+    "tagline": "흰 종이에 따뜻한 색면을 겹겹이 칠하고, 사진 속 주인공은 칠할 때 남겨 둔 종이의 흰 부분이 됩니다.",
+    "look": "넓은 흰 종이 가운데에 느슨한 붓질로 불규칙한 사각 색면을 칠합니다. 먼저 옅게 깔고, 잘게 겹쳐 칠하고, 반쯤 마른 붓으로 문지른 뒤, 마지막으로 군데군데 진하게 합니다. 붓 방향, 비치는 종이, 덜 칠한 틈은 그대로 남깁니다. 사진에서 가장 알아보기 쉬운 주인공은 나중에 붙이는 것이 아니라 색면을 칠할 때 남겨 둔 종이의 흰 형태이고, 몇 개의 색면과 자유로운 선으로 핵심 구조만 짚습니다. 잎이나 선, 색점 몇 개가 사각형 경계를 넘어 밖으로 나옵니다. 색은 크림 노랑, 황토, 살구, 산호, 따뜻한 빨강이 중심이고 사진 속 파랑, 청록, 초록, 분홍을 조금 섞으며, 짧은 제목이 종이의 흰 곳이나 색면 가장자리에 놓입니다.",
+    "traits": [
+      "남겨 둔 종이 흰색",
+      "겹붓질 색면",
+      "반건조 문지르기",
+      "경계 넘기",
+      "넓은 종이 여백"
+    ],
+    "good": [
+      "윤곽이 분명해 남김 형태로 표현하기 좋은 주인공: 새, 나무, 사람 실루엣, 꽃병",
+      "가지나 선이 색면 밖으로 뻗을 수 있는 자연 소재: 꽃 한 가지, 풀숲, 널어 둔 빨래",
+      "자연 관찰 삽화, 작은 전시 작품, 엽서로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "사실적인 세부가 모두 필요한 사진: 얼굴 생김새, 제품 디테일, 정밀한 건축",
+      "전체적으로 차갑고 어두운 장면(밝고 따뜻한 색으로 다시 칠해집니다)",
+      "고른 면 채우기, 깔끔한 벡터 색면, 화면 가득한 사실화를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "حقل مرسوم بطبقات مع حفظ بياض الورق",
+    "tagline": "يرسم بالفرشاة حقلاً لونياً دافئاً بطبقات على ورق أبيض، ويكون بطل صورتك هو البياض الذي تُرك بلا لون.",
+    "look": "في وسط ورقة واسعة قريبة من البياض تبني ضربات فرشاة حرة مستطيلاً لونياً غير منتظم: غسلات فاتحة رقيقة أولاً، ثم ضربات متكسرة متراكبة، ثم فرك بفرشاة نصف جافة، ثم لمسات أغمق قليلة، مع إبقاء اتجاه الفرشاة وظهور الورق والفجوات غير الملوّنة واضحة. لا يُلصق العنصر الأوضح فوق الحقل، بل هو بياض الورق المحفوظ أثناء التلوين، مع بقع لونية قليلة وخطوط حرة تشير إلى بنيته الأساسية. تعبر بعض الأوراق أو الخطوط أو النقاط حافة المستطيل. تتصدر الألوانَ درجاتُ الأصفر الكريمي والمغرة والمشمشي والمرجاني والأحمر الدافئ، مع لمسات صغيرة من أزرق الصورة أو فيروزيها أو أخضرها أو ورديها، وتقع عناوين قصيرة قليلة في البياض أو على حافة الحقل.",
+    "traits": [
+      "أشكال من بياض محفوظ",
+      "حقل بضربات متراكبة",
+      "فرك بفرشاة نصف جافة",
+      "تجاوز الحافة",
+      "بياض ورق واسع"
+    ],
+    "good": [
+      "عناصر واضحة الحدود تصلح أشكالاً سالبة: طائر، شجرة، ظل شخص، مزهرية",
+      "موضوعات طبيعية بسيقان أو خطوط يمكن أن تمتد خارج الحقل: ساق زهرة، خصلة عشب، غسيل على حبل",
+      "صور تريدها رسماً لدفتر مراقبة الطبيعة أو قطعة معرض صغيرة أو بطاقة بريدية"
+    ],
+    "poor": [
+      "صور تحتاج إلى تفاصيل واقعية كاملة: ملامح الوجه، تفاصيل المنتجات، عمارة دقيقة",
+      "مشاهد باردة داكنة رمادية، إذ يُعاد تلوينها بدرجات دافئة مشرقة",
+      "طلب تعبئة مسطّحة متساوية أو كتل متجهية نظيفة أو لوحة واقعية تملأ المساحة"
+    ]
+  }
+}
